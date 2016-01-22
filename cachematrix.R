@@ -4,7 +4,7 @@
 ## of such matrix has been calculated, it instead prints the 
 ## cached solution.
 
-## This function is the one that created the special 
+## This function is the one that creates the special 
 ## matrix, storable in the cache.
 
 makeCacheMatrix <- function(x = matrix()) {
